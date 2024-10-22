@@ -1,1 +1,1 @@
-wabdn/local
+wandb/local
